@@ -1,1 +1,1 @@
-# WindowRemember
+# NSWindowRemember
